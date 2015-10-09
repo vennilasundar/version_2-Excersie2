@@ -5,7 +5,7 @@ import java.util.Random;
 
 
 public class NumberFight_2 {
-
+// New branch for pull request
     
     public static void main(String[] args) {
         int M,B;
